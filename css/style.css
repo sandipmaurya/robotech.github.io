@@ -61,9 +61,19 @@
 
 #bodypart{
 	border: 0px solid;
-	margin-top: 5px;
+	margin-top:0px;
+
 
    }
+#bodypart h2{
+	margin-top: 5px;
+	margin-left: 0px;
+	
+}
+
+#pic p1 {
+	
+}
 
 #bodyleft{
 	border: 0px solid;
@@ -96,6 +106,17 @@
 }	
 #bodyleft ul li a:hover{
 	color: #FF0000;
+}
+#bodypic{
+	border: 1px solid #CCCCCC ;
+	width: 970px;
+	float: left;
+	margin-left: 0px;
+}
+#bodypic h2{
+	background-color: #FF0000;
+	color: #FFFFFF;
+	padding: 5px;
 }
 #bodyright{
 	border: 1px solid #CCCCCC ;
